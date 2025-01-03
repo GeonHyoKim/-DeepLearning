@@ -1,3 +1,21 @@
 # DeepLearning
 
-
+![deep1](https://github.com/user-attachments/assets/7f51236f-6a16-4d61-a837-efe145376f77)
+![deep2](https://github.com/user-attachments/assets/6beb0aa1-9549-49f4-9102-44d942a17854)
+![deep3](https://github.com/user-attachments/assets/988ed5dd-a520-4bf4-b337-34ea8370a6a7)
+![deep4](https://github.com/user-attachments/assets/b3ae5395-cf2e-4ef8-b2ab-e9e348d889ed)
+![deep5](https://github.com/user-attachments/assets/7825fd24-726b-4fe0-91b0-4d68ae10298c)
+![deep6](https://github.com/user-attachments/assets/09201ef8-35ba-4024-b931-2007c4f92c76)
+![deep7](https://github.com/user-attachments/assets/c24d29fd-8f8e-4eff-92f3-b49ef2770616)
+![deep8](https://github.com/user-attachments/assets/3cd4b624-428b-41bc-8aac-606e3a6750bf)
+![deep9](https://github.com/user-attachments/assets/df5b5116-322c-4be2-86a5-41f0387745d0)
+![deep10](https://github.com/user-attachments/assets/16e3ed1d-d3f4-43e3-be3f-4cecd2d9f42d)
+![deep11](https://github.com/user-attachments/assets/ab963849-740a-4e30-ab5e-b22648f0fee5)
+![deep12](https://github.com/user-attachments/assets/f6f5d679-cbae-4f72-a24d-57b417759a02)
+![deep13](https://github.com/user-attachments/assets/26778f8f-98a6-499b-9213-13f627ea2428)
+![deep14](https://github.com/user-attachments/assets/99a11d9b-5f60-4c95-8f77-823190258a76)
+![deep15](https://github.com/user-attachments/assets/5d494c01-50da-418e-a726-a90110712c0f)
+![deep16](https://github.com/user-attachments/assets/f807e34e-f859-4fa9-9ead-d498eced723a)
+![deep17](https://github.com/user-attachments/assets/c6822000-55bb-4219-8d9e-6c9ce2fe0072)
+![deep18](https://github.com/user-attachments/assets/e326811b-59ca-4fff-9a8c-7d728fe3ac39)
+![deep19](https://github.com/user-attachments/assets/88de0b0e-80a4-4277-bbb1-42978349ca44)
